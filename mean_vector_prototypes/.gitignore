@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Prototypes folder
+artifacts/
+
+# Experiment Results and Logs
+result/
+
